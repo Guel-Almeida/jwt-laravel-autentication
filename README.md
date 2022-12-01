@@ -19,6 +19,8 @@ Usamos a (https://jwt-auth.readthedocs.io/en/develop/) para nos guiar na impleme
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page]
 
 
+## Authors
+- [Miguel de Almeida](https://github.com/Guel-Almeida)
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
